@@ -1,4 +1,4 @@
-# Gerador de Cores Aleatórias
+# Jogo da Cobrinha
   Exemplo do Jogo da Cobrinha utilizando HTML, CSS e JS.
   
   [O mesmo está disponível clicando aqui](https://lhrp.app.br/github/jogoCobrinha-JS)
